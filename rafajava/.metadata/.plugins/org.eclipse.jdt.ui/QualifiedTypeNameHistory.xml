@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Past"/>
+<fullyQualifiedTypeName name="javax.persistence.TemporalType"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Temporal"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="javax.persistence.Temporal"/>
+<fullyQualifiedTypeName name="javax.validation.Valid"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Positive"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Size"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ReloadableResourceBundleMessageSource"/>
+<fullyQualifiedTypeName name="org.springframework.context.MessageSource"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.data.web.config.EnableSpringDataWebSupport"/>
+<fullyQualifiedTypeName name="springfox.documentation.swagger2.annotations.EnableSwagger2"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="springfox.documentation.spring.web.plugins.Docket"/>
+<fullyQualifiedTypeName name="springfox.documentation.service.ApiInfo"/>
+<fullyQualifiedTypeName name="io.swagger.models.Contact"/>
+<fullyQualifiedTypeName name="springfox.documentation.builders.ApiInfoBuilder"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="springfox.documentation.spi.DocumentationType"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="springfox.documentation.service.Contact"/>
+<fullyQualifiedTypeName name="io.swagger.annotations.ApiModelProperty"/>
+</qualifiedTypeNameHistroy>

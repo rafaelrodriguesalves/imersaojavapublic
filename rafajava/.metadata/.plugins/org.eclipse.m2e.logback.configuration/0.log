@@ -1,0 +1,517 @@
+2019-03-14 09:08:05,459 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-14 18:44:24,002 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-14 18:48:25,453 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-14 18:48:28,511 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bancott/src/main/java
+2019-03-14 18:48:28,511 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bancott/src/main/resources
+2019-03-14 18:48:28,512 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bancott/src/main/resources
+2019-03-14 18:48:28,512 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bancott/src/test/java
+2019-03-14 18:48:28,694 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2019-03-14 18:48:34,052 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 18:48:34,056 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 18:48:34,070 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 18:48:34,074 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 18:48:34,074 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 19:07:15,391 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar
+2019-03-14 19:07:19,265 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar
+2019-03-14 19:07:19,438 [Worker-21] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:2.0.1.Final
+2019-03-14 19:07:19,947 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:07:19,949 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 19:07:19,949 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 19:07:19,952 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:07:19,952 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 19:31:56,614 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:31:56,614 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 19:31:56,630 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 19:31:56,630 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:31:56,630 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 19:34:52,040 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:34:52,040 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 19:34:52,056 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 19:34:52,056 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:34:52,056 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 19:36:35,404 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:36:35,404 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 19:36:35,420 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 19:36:35,420 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:36:35,420 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 19:37:07,119 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:37:07,119 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 19:37:07,134 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 19:37:07,134 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:37:07,134 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 19:37:16,432 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:37:16,432 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 19:37:16,432 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 19:37:16,432 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:37:16,432 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 19:43:08,351 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:43:08,367 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 19:43:08,367 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 19:43:08,367 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:43:08,367 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 19:43:19,484 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:43:19,484 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 19:43:19,500 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 19:43:19,500 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:43:19,500 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 19:44:22,835 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:44:22,835 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 19:44:22,835 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 19:44:22,850 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 19:44:22,850 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 20:05:02,555 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:05:02,555 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 20:05:02,555 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 20:05:02,571 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:05:02,571 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 20:06:26,900 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:06:26,900 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 20:06:26,900 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 20:06:26,900 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:06:26,900 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 20:11:12,529 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:11:12,529 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 20:11:12,544 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 20:11:12,544 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:11:12,544 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 20:23:28,644 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:23:28,645 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 20:23:28,647 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 20:23:28,650 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:23:28,650 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 20:27:01,621 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:27:01,622 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 20:27:01,623 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 20:27:01,626 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:27:01,626 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 20:31:54,600 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:31:54,600 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 20:31:54,601 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 20:31:54,603 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:31:54,604 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 20:34:39,029 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:34:39,029 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 20:34:39,030 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 20:34:39,036 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:34:39,036 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 20:55:25,392 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:55:25,392 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 20:55:25,392 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 20:55:25,392 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:55:25,392 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 20:55:30,717 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:55:30,717 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 20:55:30,717 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 20:55:30,717 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 20:55:30,717 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:01:36,045 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:01:36,045 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:01:36,045 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:01:36,045 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:01:36,045 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:01:44,723 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:01:44,724 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:01:44,725 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:01:44,729 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:01:44,730 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:01:46,126 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:01:46,126 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:01:46,126 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:01:46,126 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:01:46,126 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:03:57,911 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:03:57,911 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:03:57,911 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:03:57,911 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:03:57,911 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:05:24,948 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:05:24,948 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:05:24,948 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:05:24,948 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:05:24,948 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:12:09,402 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:12:09,402 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:12:09,402 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:12:09,402 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:12:09,402 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:20:02,298 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-14 21:20:03,591 [Worker-52] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.1.3.RELEASE/spring-boot-starter-validation-2.1.3.RELEASE.pom
+2019-03-14 21:20:03,759 [Worker-52] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.1.3.RELEASE/spring-boot-starter-validation-2.1.3.RELEASE.pom
+2019-03-14 21:20:04,051 [Worker-52] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.1.3.RELEASE/spring-boot-starter-validation-2.1.3.RELEASE.jar
+2019-03-14 21:20:04,264 [Worker-52] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.1.3.RELEASE/spring-boot-starter-validation-2.1.3.RELEASE.jar
+2019-03-14 21:20:04,845 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:20:04,845 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:20:04,876 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:20:04,876 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:20:04,876 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:20:07,998 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:20:07,998 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:20:07,998 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:20:07,998 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:20:07,998 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:25:11,639 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:25:11,639 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:25:11,639 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:25:11,639 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:25:11,639 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:25:29,708 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:25:29,709 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:25:29,711 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:25:29,713 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:25:29,713 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:25:44,067 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:25:44,067 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:25:44,067 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:25:44,067 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:25:44,067 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:31:42,485 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:31:42,485 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:31:42,485 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:31:42,501 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:31:42,501 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:44:50,795 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:44:50,795 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:44:50,795 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:44:50,811 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:44:50,811 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:44:56,950 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:44:56,950 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:44:56,950 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:44:56,965 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:44:56,965 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:46:27,475 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:46:27,475 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:46:27,506 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:46:27,506 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:46:27,506 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:46:34,666 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:46:34,666 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:46:34,666 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:46:34,666 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:46:34,666 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:52:29,597 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:52:29,597 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:52:29,597 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:52:29,597 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:52:29,597 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:54:33,010 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:54:33,010 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:54:33,010 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:54:33,010 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:54:33,010 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:54:39,088 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:54:39,088 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:54:39,104 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:54:39,104 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:54:39,104 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:54:45,587 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:54:45,587 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:54:45,587 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:54:45,587 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:54:45,587 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:55:44,866 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:55:44,866 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:55:44,866 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:55:44,866 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:55:44,866 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:55:50,445 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:55:50,445 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:55:50,445 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:55:50,461 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:55:50,461 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:57:17,042 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:57:17,042 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:57:17,042 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:57:17,042 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:57:17,042 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:57:20,043 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:57:20,043 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:57:20,043 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:57:20,043 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:57:20,043 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:58:23,541 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:58:23,541 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:58:23,541 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:58:23,541 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:58:23,541 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 21:59:19,797 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:59:19,797 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 21:59:19,797 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 21:59:19,813 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 21:59:19,813 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 22:02:57,812 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:02:57,812 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 22:02:57,812 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 22:02:57,812 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:02:57,812 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 22:03:38,797 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:03:38,797 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 22:03:38,797 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 22:03:38,797 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:03:38,797 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 22:05:43,504 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-14 22:05:46,268 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.1.3.RELEASE/spring-boot-starter-security-2.1.3.RELEASE.pom
+2019-03-14 22:05:46,418 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.1.3.RELEASE/spring-boot-starter-security-2.1.3.RELEASE.pom
+2019-03-14 22:05:46,760 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.1.4.RELEASE/spring-security-config-5.1.4.RELEASE.pom
+2019-03-14 22:05:47,931 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.1.4.RELEASE/spring-security-config-5.1.4.RELEASE.pom
+2019-03-14 22:05:48,093 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.pom
+2019-03-14 22:05:48,728 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.pom
+2019-03-14 22:05:48,888 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.1.4.RELEASE/spring-security-web-5.1.4.RELEASE.pom
+2019-03-14 22:05:49,550 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.1.4.RELEASE/spring-security-web-5.1.4.RELEASE.pom
+2019-03-14 22:05:49,818 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.1.3.RELEASE/spring-boot-starter-security-2.1.3.RELEASE.jar
+2019-03-14 22:05:49,966 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.1.3.RELEASE/spring-boot-starter-security-2.1.3.RELEASE.jar
+2019-03-14 22:05:50,119 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.1.4.RELEASE/spring-security-config-5.1.4.RELEASE.jar
+2019-03-14 22:06:43,509 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.1.4.RELEASE/spring-security-config-5.1.4.RELEASE.jar
+2019-03-14 22:06:43,673 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.jar
+2019-03-14 22:07:07,783 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.jar
+2019-03-14 22:07:07,952 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.1.4.RELEASE/spring-security-web-5.1.4.RELEASE.jar
+2019-03-14 22:07:27,366 [Worker-65] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.1.4.RELEASE/spring-security-web-5.1.4.RELEASE.jar
+2019-03-14 22:07:27,817 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:07:27,820 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 22:07:27,821 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 22:07:27,823 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:07:27,823 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 22:07:30,752 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:07:30,753 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 22:07:30,773 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 22:07:30,782 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:07:30,782 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 22:21:03,955 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:21:03,956 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-14 22:21:03,958 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 22:21:03,960 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:21:03,960 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 22:23:26,789 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:23:26,789 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 22:23:26,789 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 22:23:26,789 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:23:26,789 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 22:23:29,769 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:23:29,769 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 22:23:29,769 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-14 22:23:29,769 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-14 22:23:29,769 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-14 22:27:14,473 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-15 18:24:00,339 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-15 19:23:33,766 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:23:33,774 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 19:23:33,796 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 19:23:33,822 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:23:33,823 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 19:24:37,280 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-15 19:24:49,843 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/2.4.0/springfox-swagger-ui-2.4.0.pom
+2019-03-15 19:24:49,849 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/2.4.0/springfox-swagger2-2.4.0.pom
+2019-03-15 19:24:50,491 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:24:50,518 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 19:24:50,518 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 19:24:50,522 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:24:50,523 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 19:24:58,192 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:24:58,193 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 19:24:58,193 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 19:24:58,196 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:24:58,196 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 19:32:17,088 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-15 19:32:17,854 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:32:17,855 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 19:32:17,856 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 19:32:17,859 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:32:17,859 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 19:32:48,958 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-15 19:32:50,077 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:32:50,082 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 19:32:50,082 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 19:32:50,086 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:32:50,087 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 19:32:54,915 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-15 19:32:56,041 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:32:56,041 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 19:32:56,060 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 19:32:56,071 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:32:56,072 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 19:34:46,178 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-15 19:34:46,880 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-15 19:34:47,426 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bancott/src/main/java
+2019-03-15 19:34:47,426 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bancott/src/main/resources
+2019-03-15 19:34:47,426 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bancott/src/main/resources
+2019-03-15 19:34:47,426 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bancott/src/test/java
+2019-03-15 19:34:47,770 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-15 19:34:48,581 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:34:48,581 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 19:34:48,596 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 19:34:48,628 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:34:48,628 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 19:35:13,570 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-15 19:35:14,100 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-15 19:35:14,568 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bancott/src/main/java
+2019-03-15 19:35:14,568 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bancott/src/main/resources
+2019-03-15 19:35:14,568 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bancott/src/main/resources
+2019-03-15 19:35:14,584 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bancott/src/test/java
+2019-03-15 19:35:14,786 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-15 19:35:15,598 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:35:15,598 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 19:35:15,629 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 19:35:15,629 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:35:15,629 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 19:36:45,649 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-15 19:36:46,832 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/2.9.2/springfox-swagger-ui-2.9.2.pom
+2019-03-15 19:36:46,989 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/2.9.2/springfox-swagger-ui-2.9.2.pom
+2019-03-15 19:36:47,136 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2.pom
+2019-03-15 19:36:47,292 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2.pom
+2019-03-15 19:36:47,450 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/20.0/guava-20.0.pom
+2019-03-15 19:36:47,590 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/20.0/guava-20.0.pom
+2019-03-15 19:36:47,748 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/20.0/guava-parent-20.0.pom
+2019-03-15 19:36:47,889 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/20.0/guava-parent-20.0.pom
+2019-03-15 19:36:48,055 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.pom
+2019-03-15 19:36:48,275 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.pom
+2019-03-15 19:36:48,433 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin/1.2.0.RELEASE/spring-plugin-1.2.0.RELEASE.pom
+2019-03-15 19:36:48,564 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin/1.2.0.RELEASE/spring-plugin-1.2.0.RELEASE.pom
+2019-03-15 19:36:48,736 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.pom
+2019-03-15 19:36:48,892 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.pom
+2019-03-15 19:36:49,014 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spi/2.9.2/springfox-spi-2.9.2.pom
+2019-03-15 19:36:49,186 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spi/2.9.2/springfox-spi-2.9.2.pom
+2019-03-15 19:36:49,342 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2.pom
+2019-03-15 19:36:49,485 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2.pom
+2019-03-15 19:36:49,633 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2.pom
+2019-03-15 19:36:49,789 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2.pom
+2019-03-15 19:36:49,931 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-annotations/1.5.20/swagger-annotations-1.5.20.pom
+2019-03-15 19:36:50,090 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-annotations/1.5.20/swagger-annotations-1.5.20.pom
+2019-03-15 19:36:50,232 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-project/1.5.20/swagger-project-1.5.20.pom
+2019-03-15 19:36:50,388 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-project/1.5.20/swagger-project-1.5.20.pom
+2019-03-15 19:36:50,548 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/5/oss-parent-5.pom
+2019-03-15 19:36:50,689 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/5/oss-parent-5.pom
+2019-03-15 19:36:50,849 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-models/1.5.20/swagger-models-1.5.20.pom
+2019-03-15 19:36:50,996 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-models/1.5.20/swagger-models-1.5.20.pom
+2019-03-15 19:36:51,140 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.pom
+2019-03-15 19:36:51,296 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.pom
+2019-03-15 19:36:51,439 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.pom
+2019-03-15 19:36:51,581 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.pom
+2019-03-15 19:36:51,746 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.pom
+2019-03-15 19:36:51,902 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.pom
+2019-03-15 19:36:52,043 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.2.0.Final/mapstruct-parent-1.2.0.Final.pom
+2019-03-15 19:36:52,201 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.2.0.Final/mapstruct-parent-1.2.0.Final.pom
+2019-03-15 19:36:52,357 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2019-03-15 19:36:52,513 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2019-03-15 19:36:52,656 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2019-03-15 19:36:52,812 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2019-03-15 19:36:52,953 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2019-03-15 19:36:53,107 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2019-03-15 19:36:53,270 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2019-03-15 19:36:53,426 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2019-03-15 19:36:53,670 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/2.9.2/springfox-swagger-ui-2.9.2.jar
+2019-03-15 19:36:54,786 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/2.9.2/springfox-swagger-ui-2.9.2.jar
+2019-03-15 19:36:54,946 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2.jar
+2019-03-15 19:36:55,112 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2.jar
+2019-03-15 19:36:55,254 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2.jar
+2019-03-15 19:36:55,426 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2.jar
+2019-03-15 19:36:55,566 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-annotations/1.5.20/swagger-annotations-1.5.20.jar
+2019-03-15 19:36:55,707 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-annotations/1.5.20/swagger-annotations-1.5.20.jar
+2019-03-15 19:36:55,865 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/swagger-models/1.5.20/swagger-models-1.5.20.jar
+2019-03-15 19:36:56,027 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/swagger-models/1.5.20/swagger-models-1.5.20.jar
+2019-03-15 19:36:56,170 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-spi/2.9.2/springfox-spi-2.9.2.jar
+2019-03-15 19:36:56,342 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-spi/2.9.2/springfox-spi-2.9.2.jar
+2019-03-15 19:36:56,498 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2.jar
+2019-03-15 19:36:56,656 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2.jar
+2019-03-15 19:36:56,812 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.jar
+2019-03-15 19:36:56,971 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.jar
+2019-03-15 19:36:57,113 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.jar
+2019-03-15 19:36:57,271 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.jar
+2019-03-15 19:36:57,427 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/20.0/guava-20.0.jar
+2019-03-15 19:36:57,902 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/20.0/guava-20.0.jar
+2019-03-15 19:36:58,039 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar
+2019-03-15 19:36:58,195 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar
+2019-03-15 19:36:58,335 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.jar
+2019-03-15 19:36:58,491 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.jar
+2019-03-15 19:36:58,634 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.jar
+2019-03-15 19:36:58,790 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.jar
+2019-03-15 19:37:00,185 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:37:00,185 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 19:37:00,185 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 19:37:00,186 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:37:00,186 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 19:37:03,656 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.targettrust:bancott:0.0.1-SNAPSHOT @ C:\Users\aluno03sala04\workspace-rafael\bancott\pom.xml.
+2019-03-15 19:37:04,517 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:37:04,522 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 19:37:04,541 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 19:37:04,578 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 19:37:04,578 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 20:18:20,233 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:18:20,233 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:18:20,233 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:18:20,233 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:18:20,233 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 20:19:21,398 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:19:21,398 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:19:21,398 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:19:21,413 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:19:21,413 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 20:21:10,046 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:21:10,046 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:21:10,046 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:21:10,046 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:21:10,046 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 20:22:14,005 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:22:14,005 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:22:14,005 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:22:14,021 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:22:14,021 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 20:22:46,242 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:22:46,242 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:22:46,242 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:22:46,242 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:22:46,242 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 20:23:35,773 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:23:35,773 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:23:35,773 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:23:35,773 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:23:35,773 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 20:29:17,146 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:29:17,146 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:29:17,146 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:29:17,146 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:29:17,146 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 20:36:36,961 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:36:36,961 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:36:36,961 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:36:36,977 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:36:36,977 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 20:40:08,184 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:40:08,184 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:40:08,184 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 20:40:08,184 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 20:40:08,184 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 21:06:55,517 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 21:06:55,517 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 21:06:55,517 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 21:06:55,517 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 21:06:55,517 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 21:07:02,084 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 21:07:02,084 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 21:07:02,084 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 21:07:02,084 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 21:07:02,084 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 21:07:49,040 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 21:07:49,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 21:07:49,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-15 21:07:49,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 21:07:49,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 21:07:57,027 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 21:07:57,027 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 21:07:57,027 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 21:07:57,027 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 21:07:57,027 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-15 21:10:32,012 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 21:10:32,012 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 21:10:32,012 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-15 21:10:32,012 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-15 21:10:32,012 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources
+2019-03-19 08:33:07,303 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-19 08:36:25,902 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-19 08:37:21,957 [Worker-14] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-19 08:38:09,816 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-19 08:43:46,993 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-19 08:46:22,230 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 08:46:22,236 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-19 08:46:22,276 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-19 08:46:22,283 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 08:46:22,283 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno03sala04\workspace-rafael\bancott\src\test\resources

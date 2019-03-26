@@ -1,0 +1,5 @@
+package br.com.targettrust.bancott.exception;
+
+public class CustomizedResponseEntityExceptionHandler {
+
+}
