@@ -1,0 +1,10 @@
+package br.com.targettrust.bancott.exception;
+
+public class ContaNotFoundException extends RuntimeException{
+	
+	public ContaNotFoundException(String mensagem) {
+		super(mensagem);
+	}
+	
+
+}
